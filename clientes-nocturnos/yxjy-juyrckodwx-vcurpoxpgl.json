@@ -1,13 +1,1 @@
-{
-    "category": "",
-    "class": "futbol0176",
-    "closing_date": "", 
-    "dependencies_list": [],
-    "description": "Description for yxjy_juyrckodwx_vcurpoxpgl",
-    "keywords": "madrid,business",
-    "language": "Python",
-    "title": "yxjy_juyrckodwx_vcurpoxpgl",
-    "name": "yxjy_juyrckodwx_vcurpoxpgl",
-    "transaction_end_date": "",
-    "transaction_start_date": ""
-}
+{"category": "c1_2", "description": "Description for yxjy_juyrckodwx_vcurpoxpgl", "language": "Python", "dependencies_list": [], "closing_date": "", "transaction_start_date": "", "title": "yxjy_juyrckodwx_vcurpoxpgl", "transaction_end_date": "", "keywords": ["madrid", "business"], "class": "Clientes personas fisicas entidad 0182 por cod_persona", "name": "yxjy_juyrckodwx_vcurpoxpgl"}
