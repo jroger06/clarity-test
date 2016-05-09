@@ -1,13 +1,1 @@
-{
-    "category": "",
-    "class": "futbol0176",
-    "closing_date": "", 
-    "dependencies_list": [],
-    "description": "Description for gxcdhvgq_xovfkb_ofrdl",
-    "keywords": "business,basket",
-    "language": "Python",
-    "title": "gxcdhvgq_xovfkb_ofrdl",
-    "name": "gxcdhvgq_xovfkb_ofrdl",
-    "transaction_end_date": "",
-    "transaction_start_date": ""
-}
+{"category": "", "description": "Description for gxcdhvgq_xovfkb_ofrdl", "language": "R", "dependencies_list": [], "closing_date": "", "transaction_start_date": "", "title": "gxcdhvgq_xovfkb_ofrdl", "transaction_end_date": "", "keywords": "bank,business", "class": "futbol0176", "name": "gxcdhvgq_xovfkb_ofrdl"}

@@ -1,13 +1,1 @@
-{
-    "category": "",
-    "class": "futbol0176",
-    "closing_date": "",
-    "dependencies_list": [],
-    "description": "Description for ossqkmi_omvzbgzorcgwr_ubxazbiq",
-    "keywords": "business,bank",
-    "language": "R",
-    "title": "ossqkmi_omvzbgzorcgwr_ubxazbiq",
-    "name": "ossqkmi_omvzbgzorcgwr_ubxazbiq",
-    "transaction_end_date": "",
-    "transaction_start_date": ""
-}
+{"category": "", "description": "Description for ossqkmi_omvzbgzorcgwr_ubxazbiq", "language": "Python", "dependencies_list": [], "closing_date": "", "transaction_start_date": "", "title": "ossqkmi_omvzbgzorcgwr_ubxazbiq", "transaction_end_date": "", "keywords": "football,credit card", "class": "futbol0176", "name": "ossqkmi_omvzbgzorcgwr_ubxazbiq"}

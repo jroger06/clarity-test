@@ -1,13 +1,1 @@
-{
-    "category": "c2_3",
-    "class": "cli0182",
-    "closing_date": "", 
-    "dependencies_list": [],
-    "description": "Description for wgdd_ztoqdatforg_eqhoh_smrehoqkbkl",
-    "keywords": "sales,sales",
-    "language": "Python",
-    "title": "wgdd_ztoqdatforg_eqhoh_smrehoqkbkl",
-    "name": "wgdd_ztoqdatforg_eqhoh_smrehoqkbkl",
-    "transaction_end_date": "",
-    "transaction_start_date": ""
-}
+{"category": "c2_2", "description": "Description for wgdd_ztoqdatforg_eqhoh_smrehoqkbkl", "language": "Python", "dependencies_list": [{"table": "izjx_wsbl_uuq_af_lupudc", "from_script": true, "schema": ""}, {"table": "hbbih_fsqincb", "from_script": true, "schema": ""}, {"table": "urteufy_pnve_t_ibnw", "from_script": true, "schema": ""}], "closing_date": "", "transaction_start_date": "", "title": "wgdd_ztoqdatforg_eqhoh_smrehoqkbkl", "transaction_end_date": "", "keywords": "football,madrid", "class": "cli0182", "name": "wgdd_ztoqdatforg_eqhoh_smrehoqkbkl"}

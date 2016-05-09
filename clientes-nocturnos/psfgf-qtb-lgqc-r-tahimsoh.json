@@ -1,13 +1,1 @@
-{
-    "category": "",
-    "class": "futbol0176",
-    "closing_date": "",
-    "dependencies_list": [],
-    "description": "Description for psfgf_qtb_lgqc_r_tahimsoh",
-    "keywords": "bank,bank",
-    "language": "R",
-    "title": "psfgf_qtb_lgqc_r_tahimsoh",
-    "name": "psfgf_qtb_lgqc_r_tahimsoh",
-    "transaction_end_date": "",
-    "transaction_start_date": ""
-}
+{"category": "", "description": "Description for psfgf_qtb_lgqc_r_tahimsoh", "language": "R", "dependencies_list": [{"table": "tztn_pjau", "from_script": true, "schema": ""}, {"table": "hbbih_fsqincb", "from_script": true, "schema": ""}, {"table": "urteufy_pnve_t_ibnw", "from_script": true, "schema": ""}], "closing_date": "", "transaction_start_date": "", "title": "psfgf_qtb_lgqc_r_tahimsoh", "transaction_end_date": "", "keywords": "business,store", "class": "futbol0176", "name": "psfgf_qtb_lgqc_r_tahimsoh"}
